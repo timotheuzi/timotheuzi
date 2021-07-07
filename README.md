@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timotheuzi
 - 👀 I’m interested in ... old school programming
-- 🌱 I’m currently learning ... gradle + groovy + node.js
+- 🌱 I’m currently learning ... gradle + java spring boot + aws/oic
 - 💞️ I’m looking to collaborate on ... AI
 - 📫 How to reach me ... on here
 
