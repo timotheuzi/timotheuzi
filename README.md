@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timotheuzi
-- 👀 I’m interested in ... old school programming + java spring boot + aws/oracle things + ansible
-- 🌱 I’m currently learning ...groovy and gradle
+- 👀 I’m interested in ... old school programming + java spring boot + aws/oracle things + ansible + embedded software
+- 🌱 I’m currently learning ...C and signals
 - 📫 How to reach me ... on here
 
 <!---
