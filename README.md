@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timotheuzi
-- 👀 I’m interested in ... flutter, old school programming + java spring boot + aws/oracle things + ansible + embedded software + golang + custom LLMs + Ollama
-- 🌱 I’m currently learning ...C and signals
+- 👀 I’m interested in ... flutter, old school programming + java spring boot + aws/oracle things + ansible + embedded software + golang + custom LLMs + Ollama + android development
+- 🌱 I’m currently learning ...AI development
 - 📫 How to reach me ... on here
 
 <!---
